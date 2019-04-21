@@ -39,14 +39,14 @@ googleAnalytics = ""
   [params.hero]
     type = "hero"
     title = "Dan Collins"
-    description = "a software developer"
+    description = "software developer"
     buttontext = "Learn About Me"
 
   # about section
   [[params.block]]
     id = "about"
     type = "text"
-    title = "Who am I"
+    title = "Who I Am"
     description = "I am a software developer primarily interested in web technologies. I currently lead a team of technology professionals serving a promotional products company. This team is divided into two areas. One team is responsible for developing internal applications and public facing e-commerce websites. The other team handles the hardware and system maintenance used to power the daily operations of the company."
     buttontext = "Skills"
     # the picture is stored at static/images/
@@ -57,26 +57,50 @@ googleAnalytics = ""
     id = "skills"
     type = "list"
     title = "Stuff I do"
-    description = "Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate."
+    description = "I have always enjoyed programming, but I try not to limit myself. Here are some of the things I find most interesting and have built the most experience in."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "pic02.jpg"
 
     [[params.block.item]]
-      icon = "fa-camera-retro"
-      title = "Magna Etiam"
+      icon = "fab fa-git"
+      title = "Git"
 
     [[params.block.item]]
-      icon = "fa-pencil"
-      title = "Lorem Ipsum"
+      icon = "fab fa-docker"
+      title = "Docker"
 
     [[params.block.item]]
-      icon = "fa-code"
-      title = "Nulla Tempus"
+      icon = "fab fa-php"
+      title = "PHP"
 
     [[params.block.item]]
-      icon = "fa-coffee"
-      title = "Sed Feugiat"
+      icon = "fab fa-js-square"
+      title = "Javascript"
+
+    [[params.block.item]]
+      icon = "fab fa-css3"
+      title = "CSS"
+
+    [[params.block.item]]
+      icon = "fab fa-html5"
+      title = "HTML"
+
+    [[params.block.item]]
+      icon = "fas fa-database"
+      title = "MySQL"
+
+    [[params.block.item]]
+      icon = "fas fa-camera"
+      title = "Photography"
+
+    [[params.block.item]]
+      icon = "fab fa-adobe"
+      title = "Adobe CC Suite"
+
+    [[params.block.item]]
+      icon = "fab fa-linux"
+      title = "Linux / Debian / Ubuntu"
 
   # infos section
   [[params.block]]
