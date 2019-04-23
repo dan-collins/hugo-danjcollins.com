@@ -1,3 +1,0 @@
-[submodule "themes/highlights"]
-	path = themes/highlights
-	url = git@github.com:schmanat/hugo-highlights-theme.git

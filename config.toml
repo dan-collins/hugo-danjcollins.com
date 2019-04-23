@@ -57,7 +57,7 @@ googleAnalytics = ""
     id = "skills"
     type = "list"
     title = "Stuff I do"
-    description = "I have always enjoyed programming, but I try not to limit myself. Here are some of the things I find most interesting and have built the most experience in."
+    description = "I have always enjoyed programming, but I try not to limit myself to it. Here are some of the things that I find most interesting and have built the most experience in."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "pic02.jpg"
